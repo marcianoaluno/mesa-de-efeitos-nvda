@@ -1,0 +1,73 @@
+                MANUAL DE INSTRUÇÕES - Mesa de Efeitos
+Desenvolvedor: Marciano dos Santos
+Este addon combina duas ferramentas:
+
+Mesa de Efeitos para rádio e lives
+
+Relógio Sonoro automático com suporte a vozes em português
+ 
+1. COMANDOS GERAIS
+Alt + H: Abre este manual de instruções (leia.txt)
+
+Ctrl + H: Anuncia a hora atual imediatamente com a voz configurada
+
+Alt + G: Abre as configurações do Relógio Sonoro dentro do menu do NVDA
+ 
+2. CONFIGURAÇÃO DO RELÓGIO SONORO (NOVO)
+Antes de usar o relógio automático, é possível configurar seu comportamento:
+Ativar/desativar anúncios automáticos de hora
+Definir intervalo de anúncio (ex: a cada 30 min, 1h, etc.)
+Escolher voz natural.
+Ativar ou desativar sons de “alerta” (sinos) antes da hora
+Definir modo silencioso em horários específicos (opcional)
+📌 Essas opções ficam disponíveis em:
+Alt + G: Abre as configurações do Relógio Sonoro
+Dentro da tela de configurações:
+Use as setas para baixo e para cima para explorar as opções
+Após escolher uma opção, use a tecla Tab para navegar entre os campos e ações
+Use Shift + Tab para voltar
+Para salvar as configurações:
+Navegue com Tab até o botão OK
+Pressione Enter para confirmar e salvar as alterações
+
+3. COMANDOS DA MESA DE EFEITOS
+Alt + V: Liga ou desliga a Mesa de Efeitos
+(A mesa precisa estar ligada para os sons funcionarem)
+
+Alt + , (vírgula): Interrompe o áudio em execução
+ 
+4. CONTROLE DE MÚSICAS DE FUNDO
+Alt + M: Liga ou desliga a música de fundo
+Alt + N: Próxima música
+Alt + B: Música anterior
+ 
+5. DISPARO DE EFEITOS (MESA LIGADA)
+O addon possui 10 páginas de efeitos (100 sons no total).
+Mudar de página:
+
+Alt + 1 até Alt + 0: Alterna entre páginas 1 a 10
+Tocar efeitos:
+Teclas 1 a 0 (teclado superior ou numérico):
+Disparam os efeitos da página atual
+Exemplo:
+
+Página 1 → sons 1 a 10
+Página 2 → sons 11 a 20
+Página 10 → sons 91 a 100
+ 
+6. ESTRUTURA DE PASTAS DO ADDON
+Para funcionamento correto, organize assim:
+sons/ → 100 efeitos (1.wav até 100.wav)
+musicas/ → músicas de fundo (.mp3 ou .wav)
+sounds/ → sons do sistema do relógio (vozes e chimes)
+leia.txt → este manual
+ 
+APOIO AO PROJETO
+Se este addon foi útil e você deseja apoiar o desenvolvimento:
+PIX: 82996550478
+Toda contribuição ajuda a melhorar o projeto com novas funções e correções.
+ 
+Desenvolvido por: Marciano dos Santos
+Whatsapp: 82996550478
+e-mail: marcianoonline10@gmail.com
+Site: http://radioeclipsefm.com.br
